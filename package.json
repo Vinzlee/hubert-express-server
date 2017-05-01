@@ -1,0 +1,25 @@
+{
+  "name": "hubert-express-server",
+  "version": "1.0.0",
+  "description": "This is the express server launching the first Hubert website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinzlee/hubert-express-server.git"
+  },
+  "author": "Vincent Chollet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinzlee/hubert-express-server/issues"
+  },
+  "homepage": "https://github.com/Vinzlee/hubert-express-server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.5"
+  }
+}
